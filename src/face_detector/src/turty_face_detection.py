@@ -69,3 +69,5 @@ rospy.Subscriber('Kinect_Image_Msgs', Image, kinect_callback)
 while not rospy.is_shutdown():
     rate.sleep()
 
+
+
