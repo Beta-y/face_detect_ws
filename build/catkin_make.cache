@@ -1,0 +1,2 @@
+face_detector
+-DCATKIN_DEVEL_PREFIX=/home/beta/Desktop/face_detect_ws/devel -DCMAKE_INSTALL_PREFIX=/home/beta/Desktop/face_detect_ws/install -G Unix Makefiles

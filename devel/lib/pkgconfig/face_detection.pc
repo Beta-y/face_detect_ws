@@ -1,0 +1,8 @@
+prefix=/home/beta/Desktop/face_detect_ws/devel
+
+Name: face_detection
+Description: Description of face_detection
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/beta/Desktop/face_detect_ws/devel/lib 
+Requires: 
